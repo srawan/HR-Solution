@@ -18,7 +18,12 @@
   },
   "homepage": "https://github.com/srawan/HR-solution#readme",
   "dependencies": {
+    "compression": "^1.7.3",
+    "config": "^2.0.1",
     "express": "^4.16.3",
+    "express-async-errors": "^3.0.0",
+    "helmet": "^3.13.0",
+    "joi": "^13.5.2",
     "jsonwebtoken": "^8.3.0",
     "mongodb": "^3.1.1",
     "mongoose": "^5.2.6",
