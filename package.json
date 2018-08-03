@@ -1,0 +1,27 @@
+{
+  "name": "HR-solution",
+  "version": "1.0.0",
+  "description": "ndoe, express, mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srawan/HR-solution.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srawan/HR-solution/issues"
+  },
+  "homepage": "https://github.com/srawan/HR-solution#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.3.0",
+    "mongodb": "^3.1.1",
+    "mongoose": "^5.2.6",
+    "winston": "^3.0.0"
+  }
+}
