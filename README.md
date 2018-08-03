@@ -1,2 +1,2 @@
 # HR-solution
-ndoe, express, mongodb
+node, express, mongodb
